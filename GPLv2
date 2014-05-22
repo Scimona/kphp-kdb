@@ -18,14 +18,19 @@
     that compiling, linking, and/or using OpenSSL is allowed.
     You are free to remove this exemption from derived works.
 
-    Copyright 2009-2013 Vkontakte Ltd
-              2008-2013 Nikolai Durov
-              2008-2013 Andrei Lopatin
-              2010-2013 Arseny Smirnov
-              2010-2013 Aliaksei Levin
-              2010-2013 Vitaliy Valtman
-              2010-2013 Anton Maydell
-                   2012 Sergey Kopeliovich
-                   2012 Anton Timofeev
+    Copyright 
+              2006-2014 Kirill Zaitsev
+              2008-2014 Lee Smith
+              
+              2009-2014 Vkontakte Ltd
+              2008-2014 Nikolai Durov
+              2008-2014 Andrei Lopatin
+              2010-2014 Arseny Smirnov
+             
+              2010-2014 Aliaksei Levin
+              2010-2014 Vitaliy Valtman
+              2010-2014 Anton Maydell
+                   2014 Sergey Kopeliovich
+                   2014 Anton Timofeev
 */
 
